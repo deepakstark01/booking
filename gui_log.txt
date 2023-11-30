@@ -1,0 +1,94 @@
+2023-11-30 22:39:04,225 - INFO - Resume button clicked!
+2023-11-30 22:39:05,018 - INFO - Run button clicked!
+2023-11-30 22:39:06,229 - INFO - Run button clicked!
+2023-11-30 22:39:06,521 - INFO - Run button clicked!
+2023-11-30 22:39:06,815 - INFO - Run button clicked!
+2023-11-30 22:39:07,082 - INFO - Run button clicked!
+2023-11-30 22:39:07,224 - INFO - Run button clicked!
+2023-11-30 22:39:07,368 - INFO - Run button clicked!
+2023-11-30 23:04:54,158 - INFO - all prevous links done 0
+2023-11-30 23:04:57,286 - INFO - link number 1
+2023-11-30 23:05:01,410 - INFO - No Booking Going Back !   Brak dost\u0119pnych rezerwacji w okresie od 01.12.2023 do 07.12.2023 
+2023-11-30 23:05:05,281 - INFO - link number 2
+2023-11-30 23:05:08,255 - INFO - Booking available
+2023-11-30 23:05:08,262 - INFO - avilable in current month
+2023-11-30 23:06:15,240 - INFO - Resume button clicked!
+2023-11-30 23:06:15,663 - INFO - Resume button clicked!
+2023-11-30 23:06:15,880 - INFO - Resume button clicked!
+2023-11-30 23:06:16,202 - INFO - Resume button clicked!
+2023-11-30 23:06:16,430 - INFO - Resume button clicked!
+2023-11-30 23:06:16,791 - INFO - Resume button clicked!
+2023-11-30 23:06:17,147 - INFO - Resume button clicked!
+2023-11-30 23:06:17,451 - INFO - Resume button clicked!
+2023-11-30 23:06:18,272 - INFO - Resume button clicked!
+2023-11-30 23:06:18,905 - INFO - Resume button clicked!
+2023-11-30 23:22:58,343 - INFO - Bot started!
+2023-11-30 23:23:21,329 - INFO - all prevous links done 0
+2023-11-30 23:23:24,587 - INFO - link number 1
+2023-11-30 23:23:27,469 - INFO - No Booking Going Back !   Brak dost\u0119pnych rezerwacji w okresie od 01.12.2023 do 07.12.2023 
+2023-11-30 23:23:31,568 - INFO - link number 2
+2023-11-30 23:23:35,004 - INFO - No Booking Going Back !   Brak dost\u0119pnych rezerwacji w okresie od 01.12.2023 do 08.12.2023 
+2023-11-30 23:23:37,358 - INFO - link number 3
+2023-11-30 23:23:46,729 - INFO - Booking available
+2023-11-30 23:23:46,929 - INFO - available in next month
+2023-11-30 23:23:49,456 - INFO - date available 4
+2023-11-30 23:23:49,474 - INFO - date available 5
+2023-11-30 23:23:49,493 - INFO - date available 6
+2023-11-30 23:23:49,511 - INFO - date available 7
+2023-11-30 23:23:49,521 - INFO - Available slots are ['4', '5', '6', '7']
+2023-11-30 23:24:01,824 - INFO - captcha solving.....
+2023-11-30 23:24:10,516 - INFO - captcha solved
+2023-11-30 23:24:11,602 - INFO - pause
+2023-11-30 23:24:12,603 - INFO - pause
+2023-11-30 23:24:13,604 - INFO - pause
+2023-11-30 23:24:14,605 - INFO - pause
+2023-11-30 23:24:15,606 - INFO - pause
+2023-11-30 23:24:16,607 - INFO - pause
+2023-11-30 23:24:17,607 - INFO - pause
+2023-11-30 23:24:18,608 - INFO - pause
+2023-11-30 23:24:19,609 - INFO - pause
+2023-11-30 23:24:20,610 - INFO - pause
+2023-11-30 23:24:21,611 - INFO - pause
+2023-11-30 23:24:22,612 - INFO - pause
+2023-11-30 23:24:23,612 - INFO - pause
+2023-11-30 23:24:24,065 - INFO - Resume button clicked!
+2023-11-30 23:24:59,838 - INFO - Bot started!
+2023-11-30 23:37:15,105 - INFO - Bot started!
+2023-11-30 23:37:32,821 - INFO - Bot started!
+2023-11-30 23:38:03,882 - INFO - Bot started!
+2023-11-30 23:38:06,433 - INFO - Bot started!
+2023-11-30 23:40:36,592 - INFO - Resume button clicked!
+2023-11-30 23:40:36,594 - INFO - Resume button clicked!
+2023-11-30 23:40:36,902 - INFO - Resume button clicked!
+2023-11-30 23:40:37,490 - INFO - Resume button clicked!
+2023-11-30 23:40:37,727 - INFO - Resume button clicked!
+2023-11-30 23:40:37,928 - INFO - Resume button clicked!
+2023-11-30 23:40:38,277 - INFO - Resume button clicked!
+2023-11-30 23:40:38,464 - INFO - Resume button clicked!
+2023-11-30 23:40:38,631 - INFO - Resume button clicked!
+2023-11-30 23:40:38,810 - INFO - Resume button clicked!
+2023-11-30 23:40:38,989 - INFO - Resume button clicked!
+2023-11-30 23:40:39,165 - INFO - Resume button clicked!
+2023-11-30 23:40:39,334 - INFO - Resume button clicked!
+2023-11-30 23:40:39,510 - INFO - Resume button clicked!
+2023-11-30 23:40:39,669 - INFO - Resume button clicked!
+2023-11-30 23:40:39,847 - INFO - Resume button clicked!
+2023-11-30 23:40:40,006 - INFO - Resume button clicked!
+2023-11-30 23:40:40,500 - INFO - Resume button clicked!
+2023-11-30 23:40:40,695 - INFO - Resume button clicked!
+2023-11-30 23:40:40,888 - INFO - Resume button clicked!
+2023-11-30 23:40:42,280 - INFO - Resume button clicked!
+2023-11-30 23:40:42,707 - INFO - Resume button clicked!
+2023-11-30 23:40:42,959 - INFO - Resume button clicked!
+2023-11-30 23:40:43,154 - INFO - Resume button clicked!
+2023-11-30 23:40:43,970 - INFO - Resume button clicked!
+2023-11-30 23:40:44,414 - INFO - Resume button clicked!
+2023-11-30 23:40:44,677 - INFO - Resume button clicked!
+2023-11-30 23:40:44,858 - INFO - Resume button clicked!
+2023-11-30 23:40:45,579 - INFO - Resume button clicked!
+2023-11-30 23:40:46,993 - INFO - Resume button clicked!
+2023-11-30 23:40:47,268 - INFO - Resume button clicked!
+2023-11-30 23:40:47,487 - INFO - Resume button clicked!
+2023-11-30 23:40:47,672 - INFO - Resume button clicked!
+2023-11-30 23:40:47,880 - INFO - Resume button clicked!
+2023-11-30 23:40:48,054 - INFO - Resume button clicked!
